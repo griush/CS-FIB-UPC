@@ -1,0 +1,5892 @@
+12
+153 156
+131 182
+42 159
+44 34
+9 23
+155 189
+177 63
+8 131
+149 183
+190 65
+1 176
+193 27
+nwlrb
+bmqbh
+cdarz
+#
+#
+owkky
+hiddq
+#
+#
+scdxr
+#
+#
+jmowf
+#
+#
+12 105
+12 6
+// bucle
+modificar_prod bmqbh 8 0 15
+leer_inventario nwlrb
+1
+7 53 60
+quitar_prod bmqbh 5
+poner_prod bmqbh 5 10 20
+poner_prod jmowf 1 0 8
+escribir_barco
+modificar_barco
+8 77
+9 22
+poner_prod scdxr 5 15 4
+consultar_prod owkky 1
+leer_rio
+rxsjy
+bldbe
+fsarc
+bynec
+#
+#
+dyggx
+#
+#
+xpklo
+relln
+#
+#
+mpapq
+#
+#
+fwkho
+#
+#
+modificar_prod pkmco 9 9 5
+modificar_prod relln 12 1 2
+leer_rio
+qhnwn
+kuewh
+#
+#
+sqmgb
+buqcl
+jjivs
+wmdkq
+#
+#
+tbxix
+#
+#
+mvtrr
+bljpt
+#
+#
+nsnfw
+#
+#
+zqfjm
+afadr
+rwsof
+#
+#
+sbcnu
+#
+#
+vqhff
+#
+#
+modificar_barco
+7 114
+4 3
+redistribuir
+hacer_viaje
+poner_prod bljpt 10 7 8
+leer_inventarios
+mvtrr
+7
+7 50 83
+1 74 53
+5 183 135
+7 163 174
+9 4 97
+6 132 63
+7 198 162
+jjivs
+7
+8 180 142
+2 103 48
+12 12 162
+4 84 43
+3 89 163
+3 52 122
+8 42 24
+rwsof
+0
+jjivs
+8
+8 53 101
+7 82 76
+7 128 164
+10 34 168
+9 56 30
+9 104 19
+9 38 29
+2 56 82
+mvtrr
+0
+buqcl
+1
+2 73 9
+#
+consultar_prod afadr 9
+consultar_prod mvtrr 8
+escribir_ciudad afadr
+consultar_num
+hacer_viaje
+leer_inventarios
+afadr
+3
+6 19 148
+12 81 9
+7 174 57
+nsnfw
+3
+5 53 85
+3 125 18
+2 89 185
+tbxix
+1
+7 70 135
+afadr
+0
+sqmgb
+7
+4 85 59
+2 10 6
+3 157 160
+5 110 95
+4 2 195
+6 42 110
+1 69 59
+wmdkq
+1
+11 188 56
+kuewh
+0
+tbxix
+2
+6 181 118
+9 138 43
+sbcnu
+4
+9 61 53
+5 151 37
+9 155 38
+2 166 83
+afadr
+6
+12 156 157
+7 153 64
+10 170 141
+11 14 12
+2 173 154
+2 180 58
+buqcl
+0
+afadr
+4
+3 169 3
+3 193 61
+2 40 138
+4 159 87
+vqhff
+2
+10 84 125
+8 66 170
+#
+modificar_prod tbxix 8 5 12
+leer_inventario bsaqx
+0
+hacer_viaje
+leer_rio
+wpqca
+cehch
+#
+#
+zvfrk
+mlnoz
+#
+#
+jkpqp
+#
+#
+modificar_barco
+3 162
+1 17
+modificar_prod zvfrk 5 16 9
+comerciar wpqca cehch
+redistribuir
+escribir_barco
+modificar_prod mlnoz 7 15 8
+agregar_productos
+7
+13 7
+11 20
+5 11
+12 1
+19 10
+19 19
+17 11
+modificar_prod cehch 11139 5 5
+redistribuir
+modificar_prod wpqca 4 8 4
+leer_rio
+xrjxk
+itzyx
+acbhh
+#
+#
+kicqc
+#
+#
+oendt
+#
+#
+poner_prod xrjxk 19 18 8
+escribir_barco
+leer_rio
+omfgd
+wdwfc
+gpxiq
+vkuyt
+#
+#
+dlcgd
+#
+#
+ewhta
+#
+#
+cioho
+#
+#
+quitar_prod dlcgd 13
+leer_rio
+rdtqk
+vwcsg
+#
+#
+spqoq
+msboa
+guwnn
+yqxnz
+lgdgw
+#
+#
+pbtrw
+#
+#
+blnsa
+#
+#
+deugu
+umoqc
+#
+#
+drube
+#
+#
+tokyx
+hoach
+#
+#
+wdvmx
+#
+#
+poner_prod wdvmx 14 12 1
+redistribuir
+poner_prod vwcsg 8 11 20
+leer_inventarios
+wdvmx
+8
+14 132 47
+13 198 171
+8 17 130
+14 153 151
+5 57 173
+17 83 169
+14 59 50
+1 53 67
+tokyx
+3
+2 141 29
+13 193 192
+6 112 18
+yqxnz
+1
+11 174 8
+tokyx
+6
+13 76 51
+17 104 163
+18 79 102
+16 140 176
+4 138 194
+2 38 149
+wdvmx
+7
+14 187 125
+7 17 148
+16 15 196
+7 71 159
+3 35 45
+15 89 42
+18 102 52
+deugu
+5
+6 4 32
+16 185 182
+6 43 30
+14 146 112
+10 149 71
+rdtqk
+4
+8 194 57
+14 157 83
+2 104 180
+7 41 65
+tokyx
+6
+19 184 84
+3 40 137
+18 125 168
+1 121 148
+13 19 160
+18 151 31
+#
+escribir_barco
+escribir_ciudad hoach
+consultar_prod msboa 17
+escribir_barco
+comerciar vwcsg blnsa
+poner_prod hoach 17 11 14
+quitar_prod hoach 1
+escribir_barco
+escribir_producto 20
+agregar_productos
+7
+16 3
+10 5
+18 16
+20 18
+8 5
+7 15
+1 8
+escribir_barco
+consultar_num
+quitar_prod pbtrw 3
+agregar_productos
+9
+13 10
+1 9
+12 8
+20 11
+5 11
+20 2
+2 4
+1 16
+2 6
+escribir_producto 17
+poner_prod drube 8 14 15
+quitar_prod blnsa 35
+consultar_num
+escribir_barco
+comerciar yqxnz spqoq
+escribir_ciudad deugu
+escribir_producto 16
+leer_inventarios
+tokyx
+3
+19 60 32
+13 166 48
+10 52 92
+pbtrw
+8
+14 183 71
+31 138 130
+30 146 69
+17 4 55
+28 66 63
+8 46 54
+6 53 130
+7 140 69
+lgdgw
+1
+35 16 93
+#
+quitar_prod umoqc 13
+leer_inventarios
+guwnn
+8
+31 119 132
+2 76 81
+12 161 14
+11 158 28
+10 48 30
+15 31 193
+5 8 133
+20 71 147
+tokyx
+2
+17 173 6
+32 38 49
+guwnn
+5
+14 24 67
+24 141 55
+1 121 104
+21 176 96
+15 80 101
+guwnn
+0
+vwcsg
+3
+28 200 34
+3 161 48
+18 116 92
+#
+consultar_num
+agregar_productos
+9
+17 5
+10 10
+17 1
+6 9
+3 3
+1 4
+13 14
+16 3
+7 11
+hacer_viaje
+consultar_num
+comerciar spqoq yqxnz
+leer_inventario umoqc
+4
+38 129 132
+10 191 44
+4 90 82
+12 10 5
+modificar_barco
+5 72
+28 11
+leer_inventario wdvmx
+7
+32 73 72
+4 48 131
+31 106 14
+8 73 99
+20 106 173
+13 186 110
+41 60 133
+agregar_productos
+6
+17 2
+10 6
+20 2
+17 18
+18 1
+2 17
+poner_prod rdtqk 17 4 10
+hacer_viaje
+hacer_viaje
+leer_rio
+xrdry
+xlmnd
+#
+#
+qtukw
+#
+#
+redistribuir
+escribir_barco
+agregar_productos
+3
+1 19
+4 15
+2 15
+escribir_producto 27
+escribir_barco
+leer_rio
+agmle
+juukw
+cibxu
+bumen
+#
+#
+meyat
+#
+#
+drmyd
+#
+#
+iajxl
+#
+#
+poner_prod cibxu 19 14 15
+quitar_prod agmle 9
+comerciar meyat bumen
+agregar_productos
+2
+20 10
+11 18
+escribir_barco
+leer_inventario bumen
+7
+16 3 82
+14 85 48
+9 21 9
+17 9 22
+2 152 50
+33 58 4
+33 133 4
+leer_inventario drmyd
+0
+escribir_barco
+escribir_barco
+comerciar meyat juukw
+agregar_productos
+2
+6 6
+13 6
+escribir_producto 46
+agregar_productos
+5
+15 1
+11 3
+4 13
+8 17
+17 10
+leer_rio
+oghiq
+fmzhl
+vihjo
+uvsuy
+#
+#
+oypay
+#
+#
+ulyei
+#
+#
+muote
+hzrii
+#
+#
+cfskp
+#
+#
+quitar_prod ulyei 16
+leer_inventario vihjo
+7
+34 111 179
+48 1 106
+48 115 37
+9 144 3
+13 100 97
+6 47 3
+34 147 179
+escribir_producto 13
+escribir_barco
+leer_inventarios
+hzrii
+3
+46 35 29
+42 92 10
+30 93 55
+hzrii
+8
+22 180 104
+15 63 198
+14 123 36
+32 11 103
+37 152 37
+52 126 161
+33 109 134
+25 10 96
+ulyei
+7
+20 148 85
+50 80 75
+44 162 168
+9 112 15
+16 51 50
+22 143 43
+59 105 151
+#
+leer_rio
+ggkbb
+ipzzr
+zucxa
+#
+#
+mludf
+#
+#
+ykgru
+owzgi
+#
+#
+ooobp
+pleql
+#
+#
+wphap
+#
+#
+escribir_producto 55
+escribir_barco
+leer_rio
+jnadq
+hdcnv
+wdtxj
+bmypp
+phaux
+#
+#
+nspus
+#
+#
+gdhii
+xqmbf
+#
+#
+jxjcv
+#
+#
+udjsu
+yibye
+#
+#
+bmwsi
+qyoyg
+yxymz
+#
+#
+evypz
+vjege
+#
+#
+beocf
+#
+#
+uftsx
+dixti
+#
+#
+gsiee
+#
+#
+hkchz
+dflil
+rjqfn
+#
+#
+xztqr
+#
+#
+svbsp
+kyhse
+nbppk
+#
+#
+qtpdd
+#
+#
+buotb
+bqcwi
+#
+#
+vrfxj
+#
+#
+leer_rio
+ujjdd
+ntgei
+qvdga
+ijvwc
+yaubw
+#
+#
+ewpjv
+#
+#
+ygehl
+#
+#
+jxepb
+piwuq
+zdzub
+#
+#
+dubzv
+#
+#
+afspq
+#
+#
+pqwuz
+#
+#
+comerciar jxepb zdzub
+hacer_viaje
+escribir_barco
+modificar_prod zdzub 59 16 8
+escribir_ciudad ijvwc
+hacer_viaje
+hacer_viaje
+consultar_num
+agregar_productos
+5
+13 9
+12 8
+4 5
+1 19
+17 19
+comerciar ujjdd ifwov
+agregar_productos
+3
+18 18
+8 14
+12 19
+modificar_barco
+4 59
+37 9
+modificar_barco
+35 186
+45 20
+comerciar afspq piwuq
+consultar_prod ujjdd 33
+escribir_producto 75
+hacer_viaje
+leer_inventarios
+#
+consultar_num
+consultar_prod dubzv 11
+consultar_prod qvdga 61
+leer_rio
+yddwy
+vvbur
+czmgy
+#
+#
+jgfdx
+#
+#
+vtnun
+nesls
+#
+#
+plwui
+#
+#
+comerciar nesls vtnun
+agregar_productos
+5
+18 18
+13 1
+15 20
+6 4
+5 19
+escribir_producto 31
+escribir_barco
+modificar_barco
+74 109
+17 17
+escribir_barco
+leer_inventarios
+#
+quitar_prod vvbur 28
+hacer_viaje
+consultar_prod jgfdx 53
+comerciar czmgy czmgy
+modificar_prod vvbur 60 19 11
+quitar_prod czmgy 7
+escribir_barco
+leer_inventario vvbur
+4
+32 157 84
+37 32 105
+34 82 163
+13 167 102
+escribir_producto 15
+leer_rio
+upfxl
+#
+#
+consultar_prod upfxl 42
+poner_prod upfxl 4462 12 10
+escribir_ciudad upfxl
+leer_rio
+zbknh
+#
+#
+leer_rio
+kwppa
+nltcf
+#
+#
+irjcd
+dsozo
+#
+#
+yvegu
+#
+#
+poner_prod yvegu 31 2 20
+modificar_prod kwppa 14 13 19
+escribir_barco
+hacer_viaje
+leer_inventarios
+yvegu
+5
+73 66 54
+14 43 128
+38 193 194
+67 141 3
+40 192 200
+kwppa
+1
+39 56 139
+#
+quitar_prod kwppa 38
+escribir_producto 14
+modificar_prod dsozo 3 17 1
+modificar_prod dsozo 2673 3 4
+modificar_prod irjcd 12 15 8
+quitar_prod yvegu 34
+agregar_productos
+9
+17 1
+13 3
+12 6
+11 16
+3 17
+7 20
+2 18
+19 5
+2 18
+consultar_prod dsozo 69
+redistribuir
+escribir_producto 86
+consultar_num
+poner_prod dsozo 64 12 2
+hacer_viaje
+consultar_num
+agregar_productos
+5
+8 8
+4 15
+20 3
+8 16
+15 8
+leer_inventarios
+nltcf
+1
+2 142 178
+kwppa
+1
+42 124 114
+dsozo
+6
+58 110 135
+9 70 11
+72 127 91
+85 143 190
+82 26 141
+89 80 12
+nltcf
+6
+53 141 161
+25 179 173
+34 162 1
+40 127 8
+3 28 121
+27 194 193
+#
+consultar_num
+modificar_prod irjcd 3 7 8
+consultar_prod irjcd 28
+agregar_productos
+2
+7 14
+6 3
+leer_inventarios
+irjcd
+0
+irjcd
+8
+31 14 3
+72 65 88
+79 164 132
+13 73 50
+70 101 102
+53 173 152
+3 29 87
+1 149 137
+irjcd
+3
+70 90 57
+87 74 158
+59 17 36
+#
+hacer_viaje
+escribir_producto 95
+leer_inventarios
+yvegu
+1
+10 55 1
+kwppa
+1
+15 124 145
+kwppa
+1
+42 163 139
+yvegu
+4
+64 125 31
+85 79 75
+56 122 102
+19 124 182
+#
+consultar_prod nltcf 2
+leer_rio
+rfwcs
+fmoxe
+qmrjo
+#
+#
+wrghw
+lkobm
+#
+#
+eahkg
+#
+#
+ccnae
+hhsve
+ymqpx
+#
+#
+hlrnu
+#
+#
+nyfdz
+rhbas
+#
+#
+jeuyg
+afoub
+#
+#
+utpni
+#
+#
+hacer_viaje
+escribir_producto 56
+leer_rio
+muwfj
+qsjxv
+kqdor
+xxvrw
+#
+#
+ctdsn
+#
+#
+eogvb
+pkxlp
+#
+#
+gdirb
+#
+#
+fcriq
+ifpgy
+#
+#
+nkrre
+#
+#
+leer_rio
+fxsnv
+ucftp
+wctgt
+#
+#
+wmxnu
+#
+#
+pycfg
+cuqun
+#
+#
+ublmo
+iitnc
+klefs
+zbexr
+#
+#
+ampet
+#
+#
+vhqnd
+djeqv
+#
+#
+uygpn
+#
+#
+kazqf
+#
+#
+leer_inventario wctgt
+7
+14 169 33
+64 90 108
+43 176 119
+89 50 156
+4 138 146
+88 7 112
+66 66 177
+modificar_prod ublmo 40 1 12
+leer_inventario vhqnd
+8
+32 116 80
+80 27 173
+11 37 50
+42 197 57
+1 17 196
+46 81 170
+18 190 152
+18 184 165
+leer_inventario zbexr
+0
+agregar_productos
+1
+20 12
+escribir_producto 56
+leer_inventarios
+uygpn
+7
+78 189 32
+75 36 57
+12 167 177
+70 59 114
+80 173 26
+63 200 68
+48 135 21
+pycfg
+5
+84 138 91
+52 154 60
+63 181 121
+44 80 178
+13 180 23
+wctgt
+6
+83 89 124
+50 41 178
+65 118 97
+42 62 16
+13 63 8
+18 166 122
+zbexr
+7
+6 160 144
+85 62 97
+33 178 9
+7 72 18
+68 23 102
+8 196 68
+23 70 128
+uygpn
+8
+8 73 63
+49 83 158
+71 50 6
+85 69 112
+78 165 23
+51 152 14
+2 151 168
+83 93 5
+ucftp
+2
+29 134 94
+84 86 146
+ucftp
+8
+17 134 107
+90 53 199
+20 71 43
+55 154 23
+14 26 32
+8 22 95
+7 50 181
+14 46 38
+iitnc
+0
+wmxnu
+7
+47 105 153
+87 182 73
+59 4 179
+46 34 193
+38 190 63
+2 33 172
+44 35 162
+fxsnv
+0
+#
+escribir_barco
+modificar_barco
+8 117
+70 15
+poner_prod zbexr 8 3 13
+redistribuir
+leer_inventarios
+wctgt
+1
+17 199 77
+klefs
+7
+35 97 183
+11 102 179
+81 105 200
+3 5 49
+71 155 119
+32 27 56
+44 116 50
+iitnc
+6
+39 107 88
+83 117 151
+71 91 9
+84 170 133
+16 151 99
+28 39 111
+#
+consultar_prod zbexr 13
+modificar_barco
+52 200
+86 2
+consultar_num
+consultar_prod vhqnd 18
+leer_inventarios
+djeqv
+3
+60 173 156
+78 66 188
+1 93 171
+pycfg
+6
+43 2 170
+69 128 30
+87 157 115
+17 88 158
+55 35 178
+61 162 84
+iitnc
+1
+47 13 174
+cuqun
+7
+12 180 168
+85 39 154
+73 153 38
+60 97 66
+58 129 189
+72 119 133
+27 174 63
+djeqv
+8
+71 33 16
+71 137 195
+42 111 158
+9 176 28
+92 41 176
+72 31 16
+17 164 103
+49 72 65
+djeqv
+5
+87 189 163
+92 128 181
+6 146 78
+19 10 138
+62 49 167
+pycfg
+2
+54 25 197
+87 135 43
+wmxnu
+2
+9 170 107
+46 7 92
+klefs
+2
+17 37 52
+87 17 152
+#
+hacer_viaje
+modificar_barco
+51 173
+90 5
+comerciar djeqv klefs
+escribir_barco
+hacer_viaje
+leer_inventario ucftp
+0
+agregar_productos
+8
+10 16
+19 19
+11 14
+3 18
+6 14
+10 13
+3 13
+3 1
+modificar_prod vhqnd 80 14 17
+consultar_num
+comerciar ucftp zbexr
+agregar_productos
+2
+4 18
+11 11
+poner_prod rpjvo 16 5 7
+modificar_barco
+65 77
+46 3
+modificar_prod cuqun 66 15 20
+escribir_producto 99
+consultar_num
+consultar_num
+escribir_producto 78
+leer_inventario uygpn
+3
+73 175 178
+97 180 107
+47 159 188
+escribir_barco
+escribir_ciudad cuqun
+agregar_productos
+2
+7 8
+3 12
+hacer_viaje
+leer_inventario ucftp
+7
+95 104 65
+16 31 153
+26 138 123
+2 163 43
+79 16 14
+58 37 161
+27 181 181
+leer_inventarios
+zbexr
+7
+62 101 71
+76 194 70
+17 73 149
+25 115 142
+92 153 43
+90 145 118
+76 17 148
+cuqun
+2
+92 183 157
+24 102 146
+djeqv
+7
+20 59 38
+90 199 108
+69 195 6
+70 41 30
+14 119 131
+88 144 190
+75 134 155
+vhqnd
+7
+83 106 192
+3 142 183
+50 78 25
+50 132 41
+51 169 105
+68 54 184
+44 108 51
+zbexr
+5
+11 145 144
+52 49 94
+77 144 164
+8 170 176
+82 76 166
+wctgt
+5
+81 24 67
+68 190 121
+29 84 11
+61 117 161
+3 181 1
+uygpn
+3
+49 103 123
+79 16 129
+68 79 172
+djeqv
+5
+64 144 87
+52 11 146
+20 163 193
+3 32 190
+18 123 60
+uygpn
+0
+ampet
+2
+84 200 153
+39 124 29
+klefs
+2
+37 139 14
+10 14 77
+uygpn
+4
+88 14 183
+101 189 92
+41 183 66
+84 51 9
+djeqv
+2
+1 140 126
+11 8 87
+#
+modificar_barco
+42 35
+60 17
+leer_rio
+axdpc
+#
+#
+leer_inventario axdpc
+8
+83 66 169
+15 189 41
+5 85 93
+21 150 124
+16 186 65
+29 92 27
+41 170 158
+16 132 107
+consultar_num
+escribir_ciudad axdpc
+escribir_ciudad axdpc
+leer_inventarios
+#
+escribir_barco
+escribir_barco
+poner_prod axdpc 13 14 2
+poner_prod axdpc 29 3 8
+modificar_prod axdpc 97 7 10
+modificar_prod axdpc 33 9 4
+quitar_prod axdpc 54
+modificar_prod axdpc 62 6 4
+escribir_barco
+comerciar axdpc axdpc
+escribir_producto 68
+leer_rio
+wmjob
+#
+#
+comerciar wmjob wmjob
+quitar_prod wmjob 53
+consultar_num
+leer_inventario wmjob
+2
+57 16 93
+34 167 7
+redistribuir
+escribir_barco
+leer_inventario wmjob
+0
+modificar_barco
+77 114
+19 0
+poner_prod wmjob 96 1 20
+leer_inventarios
+#
+escribir_ciudad wmjob
+quitar_prod wmjob 48
+leer_inventarios
+#
+modificar_prod wmjob 93 0 15
+modificar_barco
+82 159
+43 17
+agregar_productos
+4
+8 14
+20 8
+10 1
+11 6
+leer_rio
+msksk
+fojne
+wxgxn
+nofwl
+twjwn
+nvbwj
+#
+#
+ckdme
+#
+#
+ouuzh
+#
+#
+yvhgv
+wujbq
+xxpit
+#
+#
+cvogr
+aiddv
+#
+#
+hrrds
+#
+#
+ycqhk
+#
+#
+leewh
+xtemb
+aqwqw
+#
+#
+pqhsu
+ebnvf
+#
+#
+gvjwd
+vjjaf
+#
+#
+qzzxl
+#
+#
+cxdzn
+cqgjl
+apopk
+#
+#
+vxfgv
+#
+#
+icetc
+#
+#
+mkblj
+opgtq
+vvhbg
+sdviv
+#
+#
+hesnk
+#
+#
+qxmwr
+qidrv
+#
+#
+mhlub
+#
+#
+brykt
+heyen
+tmrob
+#
+#
+deyqc
+#
+#
+rglua
+iihve
+#
+#
+ixwjj
+#
+#
+escribir_ciudad rqopu
+consultar_num
+modificar_barco
+20 161
+86 1
+quitar_prod msksk 34
+leer_inventarios
+xtemb
+4
+99 64 166
+101 171 145
+75 189 199
+53 108 116
+mkblj
+4
+36 72 130
+77 180 113
+45 181 151
+63 32 100
+opgtq
+1
+23 174 44
+hesnk
+3
+44 48 8
+55 190 87
+50 78 76
+gvjwd
+0
+pqhsu
+2
+27 43 46
+72 170 78
+msksk
+8
+107 187 74
+6 164 25
+55 74 120
+50 74 81
+11 141 153
+84 188 194
+16 4 165
+90 47 102
+aiddv
+6
+68 114 120
+11 170 137
+100 93 31
+17 113 181
+97 49 54
+29 178 14
+iihve
+7
+62 179 67
+36 70 31
+34 162 194
+83 78 154
+6 27 159
+22 132 134
+53 113 173
+vvhbg
+7
+9 169 137
+11 171 67
+21 101 34
+97 147 49
+67 145 41
+22 157 68
+11 90 88
+brykt
+8
+3 22 22
+40 104 79
+57 94 57
+81 82 68
+93 170 88
+90 90 143
+22 9 45
+41 197 40
+xtemb
+7
+60 112 65
+84 117 13
+107 69 102
+42 104 85
+41 24 39
+31 106 175
+2 68 52
+hrrds
+7
+49 47 24
+49 78 114
+60 179 1
+7 67 69
+89 39 84
+101 9 22
+80 164 8
+twjwn
+5
+107 98 155
+10 135 134
+93 158 135
+65 187 36
+81 157 171
+tmrob
+8
+50 109 42
+74 152 149
+86 197 138
+86 140 44
+46 123 130
+62 185 54
+43 185 149
+94 31 39
+nvbwj
+2
+65 61 80
+88 178 75
+hesnk
+8
+74 187 82
+12 173 183
+30 115 92
+76 4 95
+53 77 20
+96 38 140
+43 67 142
+38 87 106
+vxfgv
+6
+26 46 3
+16 77 180
+58 139 118
+38 134 82
+5 30 66
+106 102 45
+qidrv
+6
+73 32 91
+10 46 3
+41 101 188
+71 192 185
+63 132 119
+104 77 11
+nvbwj
+1
+83 59 188
+deyqc
+6
+50 60 160
+61 75 30
+37 103 107
+42 167 144
+62 66 36
+56 13 199
+aqwqw
+2
+93 156 71
+9 90 70
+qzzxl
+7
+23 136 166
+87 121 165
+83 140 105
+87 179 106
+96 70 34
+19 51 146
+68 112 192
+gvjwd
+7
+8 44 134
+9 117 147
+87 186 182
+105 164 95
+106 91 93
+4 40 43
+104 147 163
+apopk
+3
+73 131 185
+21 45 95
+77 116 72
+sdviv
+4
+81 147 62
+36 85 181
+64 85 117
+24 104 2
+vxfgv
+0
+rglua
+3
+80 52 193
+7 105 50
+74 146 106
+ixwjj
+7
+52 4 101
+20 110 19
+6 160 98
+19 20 109
+84 40 51
+48 171 141
+12 174 83
+ouuzh
+3
+48 103 121
+82 93 48
+73 124 1
+mkblj
+7
+80 78 52
+70 156 51
+44 179 58
+50 158 33
+6 172 189
+107 126 198
+51 90 67
+heyen
+1
+14 1 26
+cqgjl
+7
+72 12 35
+76 35 65
+22 40 1
+58 47 140
+86 63 97
+95 180 144
+71 29 22
+twjwn
+5
+62 54 189
+68 147 193
+33 1 193
+15 105 154
+17 65 61
+nofwl
+0
+vxfgv
+0
+mkblj
+4
+9 95 97
+64 142 143
+59 113 59
+76 11 122
+iihve
+7
+52 53 31
+10 55 44
+105 96 4
+81 69 197
+3 152 141
+51 3 132
+86 70 31
+nofwl
+4
+50 154 162
+91 6 75
+41 157 166
+82 24 88
+#
+consultar_prod tmrob 14
+escribir_barco
+consultar_num
+leer_inventarios
+mhlub
+2
+32 132 128
+57 9 76
+hesnk
+0
+leewh
+2
+89 13 9
+40 31 5
+xxpit
+7
+89 29 198
+47 28 111
+29 60 17
+93 59 149
+77 11 26
+78 97 70
+6 64 185
+xtemb
+7
+67 163 119
+69 177 37
+51 70 6
+75 91 105
+11 59 16
+90 30 195
+44 102 162
+pqhsu
+7
+76 79 199
+13 107 126
+66 117 192
+105 131 155
+64 83 6
+15 56 167
+5 186 148
+mkblj
+2
+24 172 145
+33 81 43
+nvbwj
+8
+65 101 60
+38 151 28
+53 73 89
+20 73 153
+72 94 112
+32 155 119
+80 115 26
+43 26 4
+rglua
+2
+49 170 103
+104 80 138
+ycqhk
+5
+91 174 122
+101 88 39
+73 124 113
+42 86 21
+41 132 15
+gvjwd
+5
+9 20 47
+79 3 174
+18 1 91
+18 192 72
+54 98 193
+vjjaf
+8
+33 32 36
+23 150 17
+29 117 137
+87 138 130
+77 96 32
+108 148 70
+8 170 157
+89 188 196
+aiddv
+0
+#
+consultar_num
+redistribuir
+leer_inventarios
+deyqc
+0
+#
+leer_inventario nofwl
+0
+consultar_num
+agregar_productos
+7
+7 11
+15 2
+20 5
+1 18
+16 10
+14 19
+18 7
+redistribuir
+quitar_prod vvhbg 77
+leer_inventario yvhgv
+7
+27 105 20
+82 137 194
+82 52 120
+52 168 142
+62 154 83
+90 174 102
+12 16 35
+agregar_productos
+6
+10 17
+2 15
+10 6
+1 8
+17 3
+18 1
+escribir_barco
+escribir_barco
+hacer_viaje
+escribir_barco
+agregar_productos
+6
+19 1
+1 18
+14 14
+13 3
+16 19
+5 12
+agregar_productos
+8
+4 20
+3 17
+7 6
+19 11
+8 11
+15 10
+19 9
+8 10
+leer_inventarios
+#
+consultar_num
+agregar_productos
+6
+11 15
+5 1
+1 15
+9 2
+5 12
+3 15
+escribir_barco
+escribir_barco
+escribir_producto 39
+redistribuir
+modificar_prod leewh 103 3 14
+poner_prod yvhgv 123 13 4
+escribir_barco
+escribir_barco
+escribir_barco
+leer_inventario qzzxl
+8
+1 87 73
+67 182 24
+116 77 125
+41 11 169
+59 71 72
+51 60 172
+121 60 113
+37 102 20
+leer_inventario tmrob
+2
+125 187 99
+15 95 177
+escribir_barco
+leer_inventario ckdme
+2
+47 181 34
+81 51 147
+escribir_ciudad xxpit
+quitar_prod nvbwj 48
+quitar_prod vxfgv 39
+escribir_ciudad xtemb
+modificar_barco
+135 110
+88 19
+escribir_barco
+consultar_prod mkblj 49
+escribir_ciudad vvhbg
+modificar_prod bjgux 2 6 20
+redistribuir
+modificar_barco
+13 102
+17 4
+hacer_viaje
+quitar_prod leewh 1580
+escribir_barco
+leer_inventarios
+cxdzn
+7
+17 52 31
+53 184 19
+44 154 11
+67 149 33
+92 165 118
+51 168 76
+21 110 57
+ebnvf
+1
+76 13 96
+aiddv
+0
+qzzxl
+0
+#
+escribir_barco
+consultar_prod rglua 54
+consultar_num
+leer_inventarios
+gvjwd
+7
+53 135 193
+92 47 99
+132 163 45
+141 169 38
+55 93 1
+127 89 119
+14 173 35
+cxdzn
+3
+10 40 168
+96 49 48
+105 110 128
+leewh
+8
+4 42 178
+73 77 121
+44 72 48
+37 195 145
+77 172 195
+46 162 43
+80 163 72
+64 68 32
+ebnvf
+2
+11 178 69
+32 182 116
+cvogr
+2
+75 51 80
+43 170 148
+cvogr
+7
+16 89 148
+47 155 137
+113 129 90
+2 78 13
+96 196 89
+4 12 128
+41 107 81
+nofwl
+3
+110 115 153
+55 127 36
+37 194 161
+yvhgv
+6
+35 72 19
+46 81 189
+81 172 190
+78 106 129
+121 122 53
+32 122 199
+wujbq
+3
+12 7 183
+36 125 126
+73 12 6
+cvogr
+4
+3 56 121
+135 119 13
+122 124 95
+50 38 170
+qzzxl
+3
+53 103 145
+24 50 69
+106 73 118
+wxgxn
+8
+114 127 27
+32 92 66
+58 170 54
+15 183 130
+92 164 24
+87 17 143
+59 106 166
+118 80 30
+icetc
+4
+12 137 76
+31 42 184
+87 66 45
+90 22 83
+cxdzn
+4
+47 184 191
+45 85 106
+104 6 86
+66 196 29
+twjwn
+0
+xxpit
+1
+30 113 122
+cvogr
+8
+49 1 77
+129 136 195
+98 31 28
+52 16 94
+66 73 126
+51 126 44
+127 119 92
+125 47 74
+ycqhk
+4
+60 179 89
+8 65 151
+95 137 24
+54 107 130
+xtemb
+8
+54 115 51
+116 81 97
+37 69 26
+17 170 44
+22 51 143
+101 58 40
+55 122 107
+7 140 147
+vxfgv
+0
+aiddv
+4
+13 99 161
+74 5 199
+97 31 146
+5 161 19
+ycqhk
+1
+86 119 96
+apopk
+8
+82 112 171
+45 18 142
+38 95 78
+55 187 194
+10 97 8
+114 52 66
+107 165 25
+63 21 29
+iihve
+7
+59 93 200
+69 25 66
+121 189 83
+43 173 110
+5 152 169
+7 177 68
+15 144 198
+#
+escribir_barco
+agregar_productos
+6
+11 12
+10 6
+9 5
+3 8
+3 1
+16 10
+escribir_ciudad nvbwj
+escribir_producto 101
+modificar_prod gvjwd 8 16 16
+consultar_prod nofwl 32
+modificar_prod mhlub 34 17 19
+consultar_prod aiddv 23
+escribir_barco
+modificar_barco
+30 20
+113 9
+escribir_barco
+escribir_ciudad hxdip
+modificar_prod heyen 143 14 18
+hacer_viaje
+redistribuir
+quitar_prod vjjaf 32
+modificar_prod mhlub 20 9 12
+leer_inventarios
+fojne
+5
+88 4 35
+80 123 65
+1 69 158
+48 60 94
+5 69 143
+tmrob
+8
+34 6 85
+122 14 118
+17 55 184
+58 92 23
+113 38 82
+76 112 189
+147 64 198
+116 15 141
+apopk
+5
+93 168 68
+132 94 99
+138 133 168
+27 198 60
+39 58 183
+qzzxl
+2
+44 46 105
+38 97 107
+hrrds
+7
+7 37 65
+44 153 152
+42 38 60
+8 161 25
+117 67 99
+2 28 3
+13 161 37
+vjjaf
+3
+126 81 96
+32 39 8
+72 27 111
+pqhsu
+8
+42 53 174
+10 34 112
+5 132 191
+140 107 82
+21 173 86
+5 186 75
+19 140 82
+123 59 20
+ycqhk
+0
+mhlub
+3
+68 149 146
+87 124 109
+44 151 118
+aqwqw
+0
+deyqc
+5
+100 68 138
+22 187 63
+40 183 35
+22 38 189
+63 144 185
+xtemb
+1
+90 41 40
+xxpit
+1
+20 169 57
+qxmwr
+1
+143 66 151
+hrrds
+5
+58 93 183
+73 62 14
+140 159 62
+94 140 2
+14 140 34
+hrrds
+0
+rglua
+6
+62 97 161
+104 153 62
+12 43 44
+83 99 49
+49 14 101
+12 181 166
+yvhgv
+1
+45 98 50
+wxgxn
+7
+40 16 54
+46 112 62
+133 46 73
+142 79 42
+124 197 17
+53 188 162
+64 118 186
+ckdme
+6
+120 139 93
+49 18 112
+15 198 153
+31 162 133
+5 44 131
+50 196 22
+gvjwd
+6
+106 164 131
+107 16 175
+133 38 90
+59 179 16
+53 56 181
+48 63 173
+xtemb
+8
+24 24 120
+52 161 6
+19 97 136
+18 158 95
+140 134 74
+51 196 11
+15 185 186
+74 91 87
+cqgjl
+7
+14 90 61
+69 90 159
+90 103 50
+40 31 42
+58 65 31
+16 74 166
+85 32 13
+ckdme
+1
+69 12 83
+pqhsu
+0
+gvjwd
+8
+140 62 75
+69 84 158
+121 118 182
+80 47 144
+65 30 111
+67 198 11
+15 182 129
+33 93 83
+mkblj
+2
+62 37 170
+31 3 85
+vjjaf
+4
+16 10 62
+52 16 162
+134 129 124
+38 142 83
+cqgjl
+3
+9 89 53
+76 42 67
+143 160 167
+cxdzn
+1
+48 47 167
+ycqhk
+3
+72 80 197
+29 144 85
+49 101 110
+qidrv
+2
+132 106 57
+17 97 187
+aiddv
+5
+121 132 87
+2 189 157
+6 60 187
+39 153 61
+68 2 193
+rglua
+7
+146 55 8
+100 194 20
+147 126 68
+46 11 35
+119 37 193
+134 74 14
+147 191 111
+msksk
+1
+7 41 167
+#
+escribir_producto 63
+agregar_productos
+3
+2 7
+5 9
+9 6
+hacer_viaje
+consultar_num
+leer_inventario yvhgv
+4
+21 21 118
+114 134 96
+112 144 153
+8 184 112
+escribir_producto 55
+modificar_prod xxpit 148 12 18
+hacer_viaje
+escribir_barco
+modificar_barco
+135 82
+111 10
+leer_rio
+fzwsw
+ybgfy
+lqvjz
+harvr
+#
+#
+lyauu
+#
+#
+zdrcn
+jkphc
+lffrk
+#
+#
+eecbp
+#
+#
+dipuf
+#
+#
+hidjc
+xjhrn
+xcxmj
+cxohq
+#
+#
+anxdr
+#
+#
+mgzeb
+#
+#
+hnlmw
+pmhwd
+vthsf
+#
+#
+queee
+#
+#
+xgruj
+#
+#
+leer_inventario xcxmj
+6
+124 14 165
+131 44 78
+16 128 135
+93 11 119
+26 149 38
+51 153 82
+consultar_num
+escribir_barco
+consultar_num
+escribir_barco
+agregar_productos
+8
+17 9
+20 19
+11 20
+18 10
+1 7
+7 20
+16 19
+20 5
+escribir_ciudad jkphc
+poner_prod hidjc 22 10 9
+redistribuir
+escribir_barco
+modificar_prod anxdr 8 14 5
+escribir_barco
+hacer_viaje
+consultar_prod lqvjz 84
+redistribuir
+modificar_prod zdrcn 54 19 15
+agregar_productos
+6
+9 7
+2 6
+19 19
+18 1
+2 11
+17 1
+comerciar cxohq hidjc
+agregar_productos
+1
+19 8
+agregar_productos
+5
+2 7
+10 8
+16 3
+1 1
+9 13
+agregar_productos
+3
+12 18
+15 7
+7 20
+leer_inventario xcxmj
+1
+149 171 63
+leer_rio
+igskm
+vrzgf
+wvrft
+wapdt
+utpbz
+#
+#
+tygns
+#
+#
+rxajj
+ngcom
+#
+#
+ikjzs
+#
+#
+dwssz
+#
+#
+novdr
+uypcn
+#
+#
+julkf
+uzmxn
+afame
+spckj
+#
+#
+cazxd
+#
+#
+rtdgy
+#
+#
+rqscc
+zybnv
+#
+#
+qqcqc
+jitlv
+#
+#
+cnvbm
+#
+#
+hacer_viaje
+poner_prod uzmxn 100 6 14
+leer_inventario julkf
+6
+26 83 23
+22 96 17
+149 24 52
+10 142 172
+39 41 160
+53 136 168
+escribir_ciudad uzmxn
+comerciar rtdgy utpbz
+modificar_barco
+136 144
+39 19
+consultar_num
+agregar_productos
+2
+4 7
+1 7
+quitar_prod dwssz 22
+leer_rio
+asidz
+gwraa
+#
+#
+tzzwp
+wmfbf
+#
+#
+jkncv
+kelhh
+zjchp
+#
+#
+dnlun
+#
+#
+mppnl
+#
+#
+escribir_producto 18
+redistribuir
+agregar_productos
+7
+12 9
+9 8
+10 17
+9 16
+7 9
+19 17
+16 12
+escribir_barco
+modificar_prod tzzwp 33 19 4
+quitar_prod zjchp 140
+poner_prod gwraa 110 16 20
+consultar_prod jkncv 605
+comerciar gwraa jkncv
+redistribuir
+modificar_barco
+89 25
+126 6
+consultar_prod jkncv 70
+modificar_barco
+110 75
+26 21
+hacer_viaje
+leer_inventario dnlun
+2
+103 120 26
+145 45 155
+leer_rio
+gjznk
+#
+#
+escribir_ciudad gjznk
+hacer_viaje
+modificar_barco
+4 82
+126 24
+comerciar gjznk gjznk
+leer_rio
+ewwuy
+sgefo
+nexpm
+msbao
+#
+#
+pmdgz
+#
+#
+qmkqz
+xuvtq
+#
+#
+vnxbs
+lqzkg
+#
+#
+lzamz
+#
+#
+pdnsj
+olvyb
+#
+#
+wxxtt
+qognr
+#
+#
+baiak
+#
+#
+quitar_prod sgefo 108
+modificar_prod olvyb 166 6 14
+escribir_ciudad olvyb
+modificar_barco
+160 88
+6 9
+leer_inventarios
+vnxbs
+5
+95 152 72
+63 8 74
+147 28 188
+178 31 10
+11 144 109
+pdnsj
+3
+31 54 93
+45 106 160
+123 98 75
+pdnsj
+3
+178 179 148
+71 158 130
+9 82 153
+qognr
+1
+70 90 118
+ewwuy
+3
+75 182 70
+6 192 105
+139 84 20
+#
+poner_prod nexpm 14 7 8
+leer_rio
+qllsz
+khfzc
+#
+#
+onnmo
+#
+#
+escribir_barco
+consultar_num
+consultar_prod qllsz 135
+escribir_producto 127
+modificar_barco
+13 121
+16 24
+escribir_producto 191
+escribir_barco
+escribir_producto 188
+escribir_barco
+comerciar khfzc qllsz
+escribir_producto 145
+escribir_ciudad khfzc
+redistribuir
+modificar_barco
+118 118
+91 18
+redistribuir
+quitar_prod onnmo 12
+consultar_num
+escribir_producto 51
+comerciar khfzc khfzc
+escribir_barco
+leer_inventario qllsz
+7
+51 86 63
+66 120 90
+167 163 184
+11 38 49
+85 68 191
+41 48 150
+99 139 195
+modificar_prod khfzc 159 16 5
+modificar_prod onnmo 116 14 12
+redistribuir
+modificar_barco
+71 145
+34 9
+modificar_prod onnmo 127 2 7
+escribir_barco
+comerciar khfzc khfzc
+comerciar onnmo qllsz
+consultar_num
+leer_inventario khfzc
+1
+178 106 48
+redistribuir
+poner_prod qllsz 76 1 17
+modificar_barco
+10 30
+48 21
+escribir_producto 40
+escribir_barco
+leer_rio
+qklpe
+efsns
+mouwq
+#
+#
+hodsg
+#
+#
+cfohe
+#
+#
+leer_inventario cfohe
+6
+175 187 87
+128 140 90
+40 157 4
+119 180 105
+51 67 152
+56 147 80
+poner_prod mouwq 24570 0 8
+escribir_barco
+modificar_barco
+34 28
+122 3
+modificar_barco
+23 99
+90 0
+leer_inventario mouwq
+1
+151 83 165
+escribir_barco
+escribir_producto 138
+poner_prod qklpe 171 0 2
+quitar_prod mouwq 162
+modificar_barco
+99 63
+108 20
+leer_inventario qklpe
+0
+escribir_barco
+consultar_prod cfohe 162
+leer_inventario mouwq
+0
+modificar_barco
+13 109
+147 10
+modificar_prod efsns 9 1 5
+escribir_barco
+hacer_viaje
+escribir_barco
+agregar_productos
+8
+15 19
+7 1
+2 8
+5 4
+17 2
+13 1
+3 11
+7 18
+leer_rio
+syshm
+gxwto
+ayuvn
+ojdjf
+#
+#
+tqtwk
+#
+#
+bapri
+ujimq
+#
+#
+wspsl
+#
+#
+gvlcs
+aqbdb
+#
+#
+gwtbs
+#
+#
+escribir_barco
+escribir_ciudad ujimq
+consultar_num
+hacer_viaje
+leer_inventarios
+gwtbs
+2
+180 105 163
+110 70 22
+ojdjf
+5
+45 57 142
+189 8 29
+36 18 147
+91 171 33
+8 49 75
+#
+poner_prod syshm 67 7 19
+escribir_producto 123
+quitar_prod ojdjf 180
+agregar_productos
+9
+10 15
+3 13
+11 5
+9 20
+2 6
+9 14
+3 9
+16 18
+2 13
+hacer_viaje
+escribir_barco
+agregar_productos
+5
+13 4
+8 1
+17 11
+15 10
+2 9
+modificar_prod gvlcs 119 8 11
+escribir_producto 135
+poner_prod gvlcs 98 10 3
+leer_inventario syshm
+5
+139 97 169
+35 99 96
+25 198 136
+76 3 40
+146 97 146
+consultar_num
+escribir_ciudad bapri
+redistribuir
+quitar_prod eettw 142
+poner_prod bapri 11 7 16
+escribir_ciudad dnfnb
+modificar_prod ujimq 52 8 14
+leer_inventarios
+#
+hacer_viaje
+escribir_barco
+leer_inventario tqtwk
+3
+8 29 56
+32 137 30
+134 19 46
+quitar_prod gxwto 46
+poner_prod ojdjf 21 7 13
+agregar_productos
+3
+16 14
+18 13
+9 12
+leer_inventarios
+#
+poner_prod yjvpd 57 12 2
+escribir_ciudad jxyuz
+consultar_prod gvlcs 76
+consultar_prod ujimq 128
+hacer_viaje
+leer_inventarios
+ojdjf
+6
+80 37 162
+33 146 173
+57 184 127
+25 108 73
+71 46 190
+54 30 103
+bapri
+6
+199 187 84
+168 20 68
+106 64 88
+128 28 89
+72 175 146
+113 145 100
+gvlcs
+8
+90 167 10
+20 57 24
+61 25 91
+15 138 27
+75 9 90
+101 42 42
+176 106 193
+195 94 168
+#
+escribir_producto 198
+comerciar tqtwk ayuvn
+redistribuir
+modificar_prod bapri 142 14 16
+modificar_prod syshm 177 19 9
+quitar_prod syshm 61
+poner_prod ayuvn 45 9 6
+consultar_num
+hacer_viaje
+agregar_productos
+9
+5 16
+12 6
+18 18
+1 19
+9 15
+20 4
+19 17
+18 4
+17 5
+consultar_prod ujimq 37
+consultar_num
+leer_inventario tqtwk
+5
+16 12 25
+126 128 19
+168 182 73
+109 111 29
+54 97 89
+leer_inventarios
+tqtwk
+8
+51 32 140
+28 3 159
+13 65 14
+52 169 178
+90 29 27
+84 53 150
+118 86 18
+40 92 190
+bapri
+0
+gvlcs
+1
+112 109 30
+ujimq
+7
+9 13 162
+126 77 23
+149 1 200
+157 51 30
+69 21 64
+142 56 74
+147 158 99
+gvlcs
+6
+96 62 20
+162 137 181
+64 177 78
+144 168 105
+185 42 170
+201 74 152
+tqtwk
+4
+116 80 38
+178 64 65
+125 72 194
+7 7 196
+wspsl
+3
+56 175 9
+149 26 67
+11 75 184
+aqbdb
+6
+89 63 94
+130 74 51
+142 73 12
+160 121 85
+90 35 19
+78 130 71
+aqbdb
+8
+63 100 82
+154 37 32
+56 155 104
+13 140 189
+129 124 192
+186 71 94
+21 159 157
+15 36 113
+#
+consultar_num
+escribir_barco
+poner_prod bapri 181 19 14
+leer_inventario ayuvn
+7
+180 124 186
+95 4 168
+141 80 78
+99 72 109
+97 199 2
+190 49 143
+127 134 110
+consultar_num
+redistribuir
+escribir_barco
+leer_rio
+qxsta
+tbzpc
+tthoo
+#
+#
+fremg
+fkrbc
+vkzvg
+#
+#
+bofth
+#
+#
+gojhd
+naywp
+#
+#
+nbito
+#
+#
+raaib
+ednez
+wfpda
+#
+#
+wlohs
+#
+#
+svtqt
+kfvsy
+#
+#
+ljzlu
+#
+#
+modificar_barco
+89 42
+52 18
+escribir_barco
+modificar_barco
+7 8
+28 24
+hacer_viaje
+poner_prod bofth 179 1 9
+escribir_producto 126
+agregar_productos
+3
+2 1
+15 6
+14 8
+poner_prod cqxsw 65 16 16
+escribir_producto 40
+hacer_viaje
+leer_inventario fremg
+1
+56 182 179
+escribir_barco
+modificar_prod ljzlu 13 8 16
+leer_inventarios
+vkzvg
+2
+43 159 144
+97 126 149
+ljzlu
+1
+193 161 35
+fkrbc
+8
+180 35 161
+108 31 110
+181 25 13
+182 193 137
+82 10 11
+133 79 104
+194 163 122
+55 105 14
+bofth
+1
+65 73 169
+nbito
+3
+30 58 106
+75 4 70
+9 105 84
+fremg
+2
+128 101 127
+193 26 9
+nbito
+0
+ednez
+3
+162 57 162
+101 163 21
+164 135 108
+tthoo
+2
+35 156 144
+28 124 44
+ljzlu
+8
+29 22 187
+87 33 109
+145 99 145
+193 46 42
+33 18 138
+98 90 32
+89 94 194
+153 3 1
+vkzvg
+5
+30 35 53
+19 140 60
+58 36 162
+107 127 99
+21 140 67
+svtqt
+6
+13 62 53
+116 119 96
+120 188 32
+51 37 81
+84 30 3
+168 165 144
+naywp
+3
+134 72 164
+171 22 168
+21 110 148
+kfvsy
+2
+98 138 132
+71 92 108
+#
+comerciar tthoo tbzpc
+comerciar wfpda wlohs
+leer_inventario qxsta
+7
+124 125 185
+36 123 180
+11 62 114
+3 174 30
+7 10 97
+93 155 145
+130 176 119
+modificar_prod qxsta 132 8 4
+hacer_viaje
+hacer_viaje
+poner_prod naywp 115 18 4
+escribir_barco
+leer_inventarios
+gojhd
+4
+191 75 176
+94 150 72
+160 195 121
+146 39 190
+raaib
+0
+raaib
+3
+140 16 111
+80 180 186
+133 4 97
+svtqt
+4
+134 13 152
+90 43 28
+40 63 100
+7 162 127
+tbzpc
+0
+tbzpc
+7
+172 111 193
+57 37 39
+56 31 21
+88 31 188
+38 29 135
+124 78 31
+79 145 155
+nbito
+2
+95 134 8
+114 115 105
+kfvsy
+1
+59 55 136
+gojhd
+4
+72 147 80
+94 200 179
+193 62 113
+18 129 157
+wlohs
+2
+116 24 99
+34 73 41
+ednez
+1
+201 57 13
+#
+escribir_barco
+comerciar nbito kfvsy
+redistribuir
+leer_inventarios
+fremg
+3
+175 88 114
+106 159 2
+195 12 23
+naywp
+1
+40 175 117
+ednez
+7
+99 77 4
+88 184 110
+47 87 198
+28 79 18
+13 194 50
+75 182 137
+125 29 166
+ednez
+5
+155 144 117
+41 90 186
+24 16 193
+98 195 97
+27 168 98
+naywp
+8
+107 109 103
+43 53 95
+80 146 57
+59 125 46
+23 190 45
+142 157 112
+157 68 17
+158 158 86
+#
+leer_rio
+yqdnt
+dmfrt
+#
+#
+zlqse
+kejhz
+ksklf
+#
+#
+epxch
+#
+#
+vczys
+#
+#
+leer_rio
+vdgcx
+bbisw
+#
+#
+meayl
+zifkt
+#
+#
+moiks
+#
+#
+leer_rio
+sfxtg
+pojxq
+iysrs
+#
+#
+qfwqd
+#
+#
+jqnqc
+gdqrn
+#
+#
+lluie
+#
+#
+poner_prod sfxtg 163 3 14
+escribir_producto 180
+redistribuir
+comerciar pojxq gdqrn
+quitar_prod sfxtg 193
+comerciar azvmw jqnqc
+escribir_barco
+escribir_barco
+leer_inventarios
+qfwqd
+3
+33 15 97
+173 89 134
+20 115 17
+sfxtg
+4
+86 108 3
+161 28 27
+55 186 182
+195 4 183
+iysrs
+7
+185 166 143
+34 118 173
+137 81 14
+58 91 58
+158 124 18
+123 80 52
+48 5 69
+lluie
+8
+63 50 49
+105 180 34
+195 5 151
+2 106 182
+59 57 197
+124 180 159
+53 169 61
+132 187 64
+qfwqd
+8
+69 158 51
+58 101 138
+49 8 185
+156 168 141
+75 30 92
+191 71 24
+128 148 46
+179 86 90
+sfxtg
+4
+155 178 105
+179 89 180
+75 73 188
+139 196 108
+#
+consultar_prod qfwqd 60
+escribir_barco
+consultar_prod iysrs 136
+leer_inventario sfxtg
+3
+193 103 196
+80 89 78
+19 159 64
+leer_inventarios
+jqnqc
+1
+151 7 129
+qfwqd
+0
+gdqrn
+8
+172 80 59
+179 31 184
+194 106 89
+96 67 86
+26 86 87
+132 176 194
+72 22 197
+87 136 177
+lluie
+5
+91 150 27
+162 87 22
+157 117 181
+114 156 9
+61 190 196
+pojxq
+6
+68 18 178
+160 24 64
+108 77 6
+162 163 88
+192 102 70
+102 93 143
+#
+leer_rio
+nuufn
+nxvlo
+yvgml
+#
+#
+iuqan
+#
+#
+dlyav
+fauao
+snlnv
+#
+#
+acsvp
+#
+#
+iumoi
+#
+#
+leer_rio
+awcqx
+swkqw
+gxyaz
+#
+#
+ntnai
+#
+#
+kamey
+#
+#
+leer_inventario swkqw
+0
+hacer_viaje
+leer_rio
+bnuqb
+cqagg
+xachr
+#
+#
+ynqxq
+#
+#
+qmlfo
+#
+#
+redistribuir
+escribir_ciudad tpqhv
+modificar_prod ynqxq 130 10 6
+comerciar bnuqb xachr
+leer_inventario bnuqb
+2
+23 191 36
+105 79 155
+consultar_num
+comerciar qmlfo qmlfo
+escribir_producto 114
+poner_prod qmlfo 171 18 5
+consultar_num
+leer_rio
+okiia
+mmqmv
+xjvbs
+oaifz
+#
+#
+yxnjc
+#
+#
+berrn
+#
+#
+mixxs
+yjhov
+#
+#
+engbp
+yqrix
+#
+#
+qgwdr
+#
+#
+agregar_productos
+7
+20 5
+3 9
+14 4
+15 19
+6 4
+18 15
+19 1
+escribir_producto 126
+quitar_prod qgwdr 52
+agregar_productos
+8
+6 12
+8 15
+1 12
+17 19
+16 20
+6 1
+12 7
+8 17
+redistribuir
+consultar_prod yjhov 72
+modificar_barco
+94 200
+118 13
+agregar_productos
+2
+14 3
+12 7
+leer_rio
+ygxrx
+kfhic
+ainhw
+#
+#
+ilkqm
+bpesz
+digzn
+#
+#
+zxtzq
+#
+#
+sjwat
+#
+#
+ycbmj
+awwmn
+#
+#
+inepf
+#
+#
+modificar_barco
+126 192
+196 12
+quitar_prod duplu 1691
+escribir_barco
+escribir_producto 146
+leer_inventario bpesz
+7
+82 45 108
+77 120 44
+45 176 200
+22 120 171
+167 80 125
+168 85 197
+125 7 180
+escribir_barco
+escribir_producto 95
+quitar_prod bpesz 9204
+consultar_num
+redistribuir
+escribir_producto 93
+leer_inventarios
+awwmn
+4
+88 66 97
+168 38 173
+107 173 25
+194 72 140
+sjwat
+1
+197 70 55
+ainhw
+7
+146 72 190
+179 87 144
+16 124 198
+104 186 186
+173 27 165
+52 174 128
+134 145 175
+awwmn
+4
+68 74 52
+169 34 159
+41 57 110
+44 16 169
+ygxrx
+0
+ygxrx
+1
+188 59 68
+sjwat
+1
+91 151 85
+#
+escribir_barco
+quitar_prod digzn 69
+agregar_productos
+3
+20 14
+15 16
+18 6
+escribir_producto 147
+quitar_prod ainhw 11385
+escribir_barco
+escribir_barco
+agregar_productos
+6
+17 7
+12 11
+7 18
+11 3
+7 11
+14 8
+agregar_productos
+7
+7 13
+2 18
+4 12
+12 9
+14 4
+18 12
+1 13
+leer_inventarios
+digzn
+6
+140 101 76
+75 42 31
+53 26 36
+89 21 196
+82 93 61
+107 109 96
+ilkqm
+5
+195 150 167
+43 140 1
+129 54 187
+66 70 86
+2 179 125
+ainhw
+3
+27 95 36
+192 141 48
+164 115 171
+awwmn
+7
+26 12 174
+87 175 124
+132 164 6
+72 142 193
+200 131 26
+118 148 149
+17 145 147
+ainhw
+1
+33 45 159
+kfhic
+3
+15 186 17
+89 32 66
+52 85 30
+kfhic
+3
+115 7 198
+199 151 40
+47 94 115
+ycbmj
+4
+161 125 136
+9 121 181
+148 34 155
+163 32 112
+#
+comerciar digzn awwmn
+comerciar ycbmj ainhw
+comerciar ainhw sjwat
+leer_inventario inepf
+2
+3 116 107
+96 189 179
+consultar_prod sjwat 38
+modificar_prod ycbmj 21 16 10
+poner_prod sjwat 59 13 1
+leer_inventario sjwat
+2
+97 84 5
+186 118 188
+leer_inventarios
+ycbmj
+5
+148 154 179
+34 91 151
+116 15 192
+181 15 162
+187 176 72
+kfhic
+2
+59 51 186
+96 152 6
+ainhw
+7
+16 69 110
+64 152 61
+152 106 6
+188 147 131
+173 34 78
+142 141 139
+138 70 192
+ycbmj
+8
+160 20 88
+91 36 150
+189 142 181
+63 4 31
+93 19 68
+57 126 150
+61 86 94
+186 98 43
+bpesz
+8
+154 111 86
+127 137 145
+68 40 38
+3 16 173
+162 29 144
+162 175 141
+160 82 93
+147 154 24
+ygxrx
+2
+169 37 163
+133 57 87
+ilkqm
+5
+111 25 124
+23 200 8
+87 65 155
+17 110 162
+108 64 64
+digzn
+3
+114 58 148
+115 61 24
+18 40 173
+ygxrx
+1
+39 67 24
+#
+redistribuir
+consultar_prod cltxm 158
+modificar_barco
+179 125
+123 23
+modificar_prod inepf 165 9 19
+consultar_num
+leer_inventarios
+sjwat
+5
+160 175 175
+175 147 74
+111 18 192
+173 123 171
+126 113 98
+bpesz
+1
+129 51 109
+inepf
+5
+160 115 50
+103 17 111
+74 62 11
+125 142 36
+21 117 68
+ilkqm
+2
+132 146 101
+97 145 27
+inepf
+7
+80 180 76
+56 91 194
+29 101 62
+118 44 69
+84 178 19
+79 91 180
+144 145 128
+zxtzq
+5
+43 97 82
+72 51 26
+139 192 23
+151 17 84
+111 152 23
+sjwat
+3
+47 16 124
+38 6 55
+131 91 142
+zxtzq
+4
+45 116 157
+38 89 66
+198 47 57
+59 118 149
+#
+consultar_prod ilkqm 116
+redistribuir
+redistribuir
+leer_inventarios
+ainhw
+3
+81 75 38
+129 110 8
+187 141 161
+digzn
+6
+130 119 200
+57 166 103
+111 40 134
+162 148 171
+185 60 40
+103 93 199
+bpesz
+2
+96 93 79
+55 63 135
+bpesz
+0
+ainhw
+0
+awwmn
+2
+70 54 36
+128 194 93
+inepf
+5
+163 144 61
+13 57 11
+168 145 137
+196 72 3
+78 162 200
+ycbmj
+6
+198 121 73
+31 113 13
+83 19 14
+12 163 54
+29 101 10
+87 164 74
+ygxrx
+6
+165 115 19
+98 9 170
+34 81 185
+115 54 183
+15 40 76
+101 124 90
+zxtzq
+3
+56 174 34
+169 107 47
+102 142 105
+#
+comerciar inepf kpvgr
+leer_inventarios
+bpesz
+2
+185 181 197
+55 41 2
+zxtzq
+1
+200 120 62
+inepf
+7
+38 56 104
+182 115 171
+129 61 84
+80 154 55
+124 52 152
+192 31 121
+122 127 128
+#
+comerciar kfhic digzn
+leer_inventario sjwat
+4
+154 122 98
+182 170 35
+86 171 29
+193 100 193
+consultar_num
+leer_rio
+rgtus
+eurag
+eltkc
+apwpb
+qromq
+#
+#
+awixe
+#
+#
+zqkvl
+fbhwc
+#
+#
+ocpjm
+#
+#
+rmbpb
+egvsu
+#
+#
+luqtu
+#
+#
+uvkes
+vjtdh
+vtjme
+#
+#
+xfqbv
+ufdpa
+#
+#
+xcwnw
+#
+#
+qjtbp
+lyzed
+#
+#
+icwso
+dpwtq
+#
+#
+rpyue
+#
+#
+agregar_productos
+9
+20 10
+9 10
+1 1
+17 16
+8 16
+16 7
+18 5
+12 10
+8 13
+agregar_productos
+4
+10 12
+20 11
+20 12
+6 17
+poner_prod rgtus 135 15 8
+escribir_ciudad arhwg
+leer_inventarios
+qromq
+7
+153 92 22
+158 152 159
+65 8 147
+120 134 187
+189 88 191
+155 163 58
+26 188 15
+dpwtq
+3
+164 81 58
+128 115 167
+113 158 3
+apwpb
+6
+130 35 166
+63 128 182
+16 30 19
+33 62 86
+129 36 134
+161 130 144
+rpyue
+1
+196 18 10
+ocpjm
+3
+68 78 4
+84 14 178
+154 142 91
+qjtbp
+2
+106 67 126
+74 46 172
+qjtbp
+4
+165 162 184
+6 20 89
+121 59 89
+150 61 45
+awixe
+3
+149 141 35
+149 183 62
+129 98 129
+luqtu
+8
+137 34 58
+141 106 80
+67 178 21
+140 2 105
+168 100 102
+176 189 118
+169 33 66
+98 18 67
+fbhwc
+6
+123 115 5
+111 144 185
+76 149 8
+41 86 185
+175 4 90
+22 13 48
+awixe
+1
+175 152 45
+egvsu
+8
+147 167 129
+153 78 4
+37 100 75
+197 161 48
+43 167 132
+102 7 91
+57 199 5
+162 71 61
+dpwtq
+1
+85 167 107
+uvkes
+6
+111 17 47
+147 152 61
+3 199 76
+145 75 42
+105 178 103
+99 10 144
+uvkes
+6
+167 174 140
+36 84 89
+156 135 144
+168 196 134
+33 5 158
+152 92 109
+vtjme
+4
+52 141 1
+108 104 170
+43 164 182
+146 53 7
+egvsu
+2
+116 59 126
+165 191 188
+zqkvl
+3
+12 35 38
+114 35 72
+112 44 90
+#
+redistribuir
+escribir_producto 208
+hacer_viaje
+comerciar ufdpa lyzed
+agregar_productos
+5
+4 6
+17 14
+8 2
+17 20
+10 14
+comerciar xfqbv zqkvl
+consultar_num
+modificar_prod qromq 146 4 14
+poner_prod luqtu 7488 14 6
+escribir_barco
+leer_inventarios
+qjtbp
+8
+106 53 133
+68 109 195
+11 104 107
+119 186 175
+93 130 16
+117 166 179
+183 125 190
+140 178 20
+egvsu
+3
+167 56 3
+68 144 123
+69 85 10
+egvsu
+0
+vjtdh
+1
+96 106 100
+eltkc
+7
+43 168 172
+93 191 40
+109 20 103
+101 44 23
+115 69 1
+188 80 160
+195 57 33
+rpyue
+4
+163 117 152
+128 181 177
+128 94 166
+112 34 114
+vjtdh
+1
+137 159 179
+qromq
+1
+48 155 162
+rgtus
+3
+85 6 175
+129 49 76
+14 171 18
+rmbpb
+7
+131 17 31
+13 28 3
+150 54 22
+118 101 86
+199 17 144
+92 198 187
+128 169 78
+egvsu
+2
+53 122 137
+52 49 89
+rpyue
+7
+130 146 179
+94 116 57
+112 99 174
+23 44 172
+201 63 129
+108 120 113
+56 162 77
+luqtu
+3
+57 175 170
+5 51 76
+43 183 7
+qjtbp
+5
+172 137 108
+165 172 182
+76 191 182
+89 143 22
+58 162 134
+luqtu
+5
+71 102 54
+112 83 38
+185 189 1
+159 185 29
+19 74 172
+#
+poner_prod zqkvl 178 9 7
+redistribuir
+consultar_num
+hacer_viaje
+hacer_viaje
+redistribuir
+agregar_productos
+3
+13 18
+17 18
+8 16
+leer_inventarios
+vjtdh
+4
+99 25 172
+49 59 103
+20 99 144
+165 138 126
+ufdpa
+2
+52 117 175
+151 186 2
+rgtus
+5
+98 26 31
+71 120 147
+150 26 136
+159 140 135
+103 62 11
+#
+escribir_producto 131
+escribir_barco
+leer_inventarios
+egvsu
+6
+127 179 24
+42 40 156
+98 78 114
+78 191 15
+59 81 164
+120 146 112
+zqkvl
+5
+3 159 23
+179 11 111
+187 157 12
+168 81 57
+22 103 58
+vtjme
+3
+109 133 76
+63 56 101
+43 147 9
+awixe
+4
+188 80 170
+9 90 195
+22 25 156
+129 59 34
+eltkc
+4
+116 37 101
+108 152 124
+144 15 54
+25 138 43
+fbhwc
+6
+45 92 28
+170 36 27
+87 34 174
+93 4 144
+142 168 4
+55 40 63
+fbhwc
+7
+66 188 68
+108 169 195
+142 131 161
+16 85 97
+193 21 129
+142 92 1
+116 78 52
+#
+redistribuir
+leer_rio
+fnpaq
+elofr
+sotqi
+#
+#
+ktxip
+#
+#
+qzeqv
+lqmuo
+ubbjb
+rpmix
+#
+#
+fclbs
+tnosv
+#
+#
+dkujc
+pwsdq
+#
+#
+hxrki
+uezio
+#
+#
+woqjp
+#
+#
+iecwx
+xbjtn
+mkjgn
+#
+#
+cpmva
+#
+#
+uqgta
+#
+#
+usokb
+fugjt
+fiuqb
+jclvl
+#
+#
+azamu
+#
+#
+cimic
+#
+#
+newdo
+#
+#
+consultar_num
+hacer_viaje
+agregar_productos
+3
+8 20
+15 10
+8 7
+modificar_barco
+117 9
+84 13
+escribir_ciudad dkujc
+comerciar xjlfu ubbjb
+consultar_num
+redistribuir
+redistribuir
+escribir_ciudad xbjtn
+modificar_barco
+137 101
+122 4
+escribir_barco
+leer_rio
+emdad
+gkhuf
+suevj
+axrni
+vcorh
+#
+#
+frqqw
+#
+#
+nujqu
+oyevs
+#
+#
+lqprl
+#
+#
+yskrh
+unljg
+#
+#
+soxle
+#
+#
+uyyfq
+utozq
+hmgye
+tyyep
+#
+#
+faesj
+#
+#
+lkziv
+devdl
+lygaz
+#
+#
+xjndj
+#
+#
+rxhrd
+yyddq
+#
+#
+nqdoa
+#
+#
+yshwx
+shxzj
+ywumb
+ffamx
+#
+#
+dnxjq
+#
+#
+oyirm
+irern
+#
+#
+ekxdl
+#
+#
+icjfq
+kkvnx
+uqmsz
+#
+#
+cixmz
+#
+#
+kwsqo
+iwyfa
+#
+#
+lpeuu
+#
+#
+hacer_viaje
+hacer_viaje
+escribir_barco
+escribir_producto 92
+poner_prod ugfrt 52 5 15
+agregar_productos
+6
+9 4
+16 5
+16 2
+5 4
+11 6
+16 20
+escribir_ciudad soxle
+quitar_prod uqmsz 48
+quitar_prod soxle 175
+leer_rio
+eomqi
+nuqni
+rxelp
+#
+#
+stosa
+odqsz
+kogrf
+#
+#
+bxtnp
+dbltq
+#
+#
+tmpyy
+#
+#
+eqtuj
+uiokc
+#
+#
+owswq
+#
+#
+yxntn
+dxqqs
+#
+#
+gkhvi
+#
+#
+escribir_producto 104
+agregar_productos
+8
+6 3
+13 12
+6 1
+8 7
+15 6
+11 3
+7 15
+12 10
+leer_inventario dxqqs
+6
+102 15 71
+75 86 10
+86 186 191
+27 133 190
+58 145 93
+70 4 163
+redistribuir
+agregar_productos
+9
+18 6
+6 4
+17 19
+13 1
+11 12
+10 14
+2 7
+10 9
+20 12
+leer_inventario odqsz
+3
+26 83 117
+197 159 87
+193 53 24
+escribir_producto 46
+escribir_barco
+agregar_productos
+5
+16 4
+8 7
+9 5
+3 8
+3 11
+quitar_prod hbaaw 167
+poner_prod kogrf 73 1 8
+escribir_barco
+escribir_barco
+consultar_prod eqtuj 137
+redistribuir
+redistribuir
+agregar_productos
+5
+7 1
+15 20
+16 16
+13 20
+5 14
+escribir_ciudad yxntn
+leer_inventario uiokc
+8
+3 104 1
+196 13 42
+23 101 59
+92 154 133
+198 117 144
+151 173 1
+34 41 93
+167 8 55
+escribir_ciudad dbltq
+leer_inventarios
+eomqi
+6
+137 120 16
+16 67 98
+171 79 72
+116 173 15
+115 26 94
+170 111 40
+odqsz
+3
+135 121 61
+90 9 76
+139 105 147
+eqtuj
+0
+kogrf
+6
+101 104 72
+38 115 125
+101 136 106
+15 130 156
+156 153 133
+187 57 11
+eqtuj
+3
+69 28 189
+150 159 157
+189 99 18
+nuqni
+6
+85 12 197
+14 80 147
+174 63 176
+188 162 182
+37 139 118
+24 179 65
+nuqni
+4
+112 119 195
+38 29 72
+154 89 132
+125 91 166
+owswq
+3
+61 169 70
+113 118 172
+29 49 1
+#
+leer_rio
+jugag
+loddk
+#
+#
+tdjiz
+#
+#
+modificar_prod loddk 189 8 18
+agregar_productos
+5
+17 19
+2 7
+11 8
+16 10
+14 18
+escribir_barco
+escribir_producto 49
+modificar_barco
+86 146
+60 22
+modificar_prod jugag 123 6 10
+consultar_prod tdjiz 189
+leer_rio
+ynyoe
+suozr
+#
+#
+yityj
+#
+#
+quitar_prod ynyoe 83
+hacer_viaje
+leer_inventarios
+suozr
+0
+ynyoe
+7
+117 199 44
+123 126 98
+183 137 58
+127 127 149
+24 22 140
+36 27 154
+51 140 91
+#
+leer_inventario ynyoe
+7
+162 114 61
+74 198 142
+90 100 122
+129 191 104
+43 168 142
+172 100 35
+68 22 159
+escribir_producto 98
+consultar_num
+modificar_barco
+134 140
+13 19
+escribir_producto 210
+consultar_prod rifxi 133
+poner_prod ynyoe 114 16 7
+escribir_ciudad suozr
+escribir_barco
+quitar_prod ynyoe 153
+leer_inventario ynyoe
+5
+199 156 171
+161 190 161
+14 195 195
+51 64 21
+17 23 114
+escribir_ciudad suozr
+hacer_viaje
+redistribuir
+escribir_barco
+leer_inventarios
+ynyoe
+6
+8 192 42
+33 147 37
+15 39 14
+151 64 75
+113 54 125
+51 3 117
+suozr
+6
+139 11 170
+182 52 183
+2 59 199
+100 165 104
+76 87 80
+22 66 106
+#
+poner_prod suozr 71 0 19
+redistribuir
+leer_inventarios
+#
+consultar_num
+hacer_viaje
+comerciar ynyoe ynyoe
+modificar_prod ynyoe 117 10 8
+leer_inventario suozr
+5
+48 88 97
+80 179 110
+24 59 58
+142 97 188
+140 96 33
+leer_inventarios
+#
+modificar_barco
+196 4
+94 21
+escribir_barco
+leer_rio
+mkyro
+kktvu
+suiqi
+#
+#
+ojfck
+yatry
+#
+#
+ekijk
+svuso
+#
+#
+kcyea
+#
+#
+vwufp
+ctajx
+#
+#
+kixdb
+xjmit
+#
+#
+wcqqx
+#
+#
+redistribuir
+escribir_barco
+escribir_barco
+escribir_producto 201
+escribir_producto 201
+poner_prod kixdb 199 14 18
+escribir_barco
+leer_rio
+fbbfh
+badvf
+uaauj
+xfrwk
+#
+#
+vuuhe
+#
+#
+pdifv
+#
+#
+fkyhs
+fiule
+afgaa
+#
+#
+pahjw
+#
+#
+tespl
+weqfm
+#
+#
+nmymt
+#
+#
+redistribuir
+leer_inventario weqfm
+2
+189 46 176
+145 107 167
+escribir_producto 106
+modificar_barco
+169 177
+29 10
+leer_inventario qrele
+1
+11 138 149
+consultar_prod pahjw 150
+escribir_barco
+quitar_prod badvf 9
+modificar_prod uaauj 13375 5 7
+hacer_viaje
+consultar_num
+poner_prod nmymt 83 12 16
+escribir_barco
+escribir_barco
+poner_prod vuuhe 85 13 6
+modificar_barco
+130 148
+162 0
+leer_inventarios
+fiule
+4
+17 167 26
+97 169 191
+67 142 26
+141 49 184
+weqfm
+2
+128 92 131
+151 104 86
+afgaa
+6
+110 149 75
+165 3 187
+179 26 42
+160 107 149
+199 104 179
+167 106 191
+badvf
+0
+tespl
+7
+96 77 132
+27 152 184
+28 32 123
+30 31 147
+193 83 113
+64 167 45
+7 195 134
+#
+comerciar xfrwk nmymt
+comerciar weqfm afgaa
+modificar_prod fbbfh 189 1 15
+leer_inventarios
+nmymt
+2
+160 77 129
+108 187 123
+nmymt
+7
+92 3 200
+101 166 106
+20 41 111
+190 59 54
+68 135 42
+107 14 102
+168 151 6
+vuuhe
+6
+197 116 104
+186 32 51
+80 134 108
+155 177 164
+173 102 164
+58 93 96
+pdifv
+4
+187 28 189
+56 77 49
+197 61 22
+105 187 83
+#
+agregar_productos
+6
+20 2
+19 19
+14 20
+6 19
+4 3
+9 1
+leer_inventario uaauj
+3
+40 65 28
+143 96 53
+40 124 29
+escribir_producto 193
+leer_inventarios
+uaauj
+5
+156 54 103
+95 152 11
+31 200 101
+14 52 188
+139 25 13
+weqfm
+4
+84 107 82
+177 78 55
+11 82 137
+38 27 112
+afgaa
+2
+158 3 45
+183 19 191
+#
+quitar_prod weqfm 2592
+escribir_producto 73
+poner_prod tespl 70 8 8
+leer_inventario tespl
+7
+14 135 14
+109 99 11
+6 44 9
+7 183 110
+173 90 185
+35 106 42
+185 33 49
+escribir_barco
+poner_prod weqfm 192 13 20
+consultar_prod xfrwk 174
+poner_prod afgaa 7040 16 12
+modificar_barco
+58 49
+67 18
+escribir_barco
+leer_rio
+inkop
+mfpvo
+mqueg
+hdmxk
+ynwxz
+qnswa
+#
+#
+xgnjw
+#
+#
+dxbuu
+sgkmn
+#
+#
+qwqdv
+#
+#
+adiwa
+hoqak
+#
+#
+qzqgk
+#
+#
+mlhqf
+dimnw
+#
+#
+zgspl
+#
+#
+orown
+pgehi
+oxhhf
+#
+#
+rvqal
+#
+#
+wdtks
+slyka
+#
+#
+jatax
+gpdmy
+#
+#
+ldxuk
+#
+#
+consultar_num
+escribir_barco
+hacer_viaje
+escribir_barco
+modificar_prod dimnw 42 7 20
+escribir_barco
+agregar_productos
+9
+20 17
+3 2
+10 7
+12 8
+10 10
+17 19
+5 13
+9 14
+1 1
+leer_inventarios
+jatax
+0
+dimnw
+7
+110 118 94
+57 60 192
+15 122 117
+25 55 12
+13 171 51
+154 62 121
+67 26 28
+slyka
+6
+71 24 195
+32 51 153
+144 97 119
+23 96 48
+63 80 66
+168 85 75
+pgehi
+3
+129 140 59
+111 134 31
+74 88 53
+mfpvo
+5
+64 123 130
+147 198 56
+134 34 179
+110 70 164
+185 11 127
+slyka
+3
+71 2 141
+83 82 104
+140 161 2
+oxhhf
+5
+112 12 142
+130 42 15
+139 28 45
+76 66 13
+62 34 179
+zgspl
+3
+159 70 91
+169 149 171
+191 155 132
+oxhhf
+8
+195 25 15
+156 64 4
+182 200 116
+58 12 193
+18 174 172
+139 107 28
+158 158 96
+74 77 126
+gpdmy
+5
+43 156 99
+178 151 171
+157 152 55
+21 130 34
+195 15 51
+ldxuk
+4
+29 130 42
+37 43 162
+188 106 91
+162 186 77
+#
+leer_inventario hdmxk
+5
+12 150 15
+127 94 195
+61 159 102
+51 195 139
+100 170 28
+agregar_productos
+4
+19 11
+2 19
+3 4
+14 2
+comerciar orown ldxuk
+consultar_prod xgnjw 133
+modificar_barco
+139 81
+27 5
+leer_inventario zgspl
+8
+138 102 37
+123 193 187
+102 58 172
+152 136 167
+12 99 138
+92 77 154
+17 152 70
+98 135 155
+quitar_prod qwqdv 162
+escribir_barco
+hacer_viaje
+agregar_productos
+9
+14 11
+4 2
+13 12
+18 10
+17 11
+19 15
+19 16
+13 5
+15 2
+agregar_productos
+7
+11 11
+8 15
+5 14
+6 18
+20 6
+2 14
+18 17
+poner_prod dnftp 155 0 1
+consultar_prod zgspl 28
+consultar_num
+leer_rio
+rrumb
+memlr
+owrhw
+#
+#
+oqntc
+#
+#
+lghlc
+rorzh
+#
+#
+gsbae
+#
+#
+consultar_num
+leer_inventarios
+oqntc
+1
+7 64 22
+memlr
+1
+82 127 61
+#
+modificar_barco
+3 62
+52 6
+leer_inventario rrumb
+5
+190 79 162
+3 196 111
+41 129 127
+73 104 67
+79 19 115
+escribir_producto 95
+hacer_viaje
+poner_prod rrumb 22 8 17
+modificar_prod gsbae 50 2 20
+comerciar memlr memlr
+escribir_barco
+escribir_barco
+escribir_producto 149
+leer_inventario owrhw
+2
+82 119 143
+21 120 167
+redistribuir
+leer_rio
+cplpc
+cdyvn
+#
+#
+xmdmf
+#
+#
+modificar_prod cplpc 193 19 2
+leer_inventarios
+cplpc
+4
+163 79 9
+54 114 52
+123 57 105
+18 34 72
+#
+consultar_num
+leer_rio
+haopl
+qizkh
+#
+#
+iqbjt
+imitd
+#
+#
+kxiks
+#
+#
+hacer_viaje
+leer_inventario qizkh
+4
+25 95 146
+46 3 8
+18 100 167
+64 3 139
+hacer_viaje
+leer_rio
+xjecw
+mkwab
+hslie
+vqvwc
+#
+#
+qeqaz
+#
+#
+tkydw
+rbgxd
+#
+#
+cjpal
+#
+#
+shgep
+kzhhv
+#
+#
+lxcbx
+dwjcc
+gtdoq
+#
+#
+iscys
+#
+#
+pqzvu
+#
+#
+consultar_prod xjecw 88
+comerciar gtdoq dwjcc
+leer_inventario hslie
+2
+190 133 138
+4 12 141
+escribir_barco
+leer_rio
+qivzp
+tlpvo
+oynya
+#
+#
+pgvsw
+#
+#
+oaosa
+#
+#
+escribir_producto 136
+poner_prod qivzp 70 18 14
+hacer_viaje
+escribir_ciudad oynya
+leer_inventario oynya
+1
+179 99 71
+comerciar tlpvo tlpvo
+poner_prod tlpvo 160 3 17
+leer_inventario pgvsw
+5
+132 93 88
+153 10 99
+114 165 84
+118 178 44
+10 58 172
+escribir_ciudad ghrff
+consultar_num
+consultar_prod tlpvo 170
+poner_prod pgvsw 32 2 18
+consultar_prod oaosa 74
+escribir_producto 120
+escribir_barco
+escribir_barco
+consultar_num
+hacer_viaje
+consultar_num
+quitar_prod nxnjy 106
+modificar_barco
+24 162
+100 14
+escribir_ciudad oynya
+leer_inventarios
+qivzp
+8
+63 37 54
+25 29 40
+137 112 178
+112 44 1
+96 162 92
+162 170 83
+150 54 30
+195 86 161
+oaosa
+5
+134 40 193
+92 45 3
+87 66 199
+32 143 22
+58 24 7
+#
+agregar_productos
+3
+10 20
+17 12
+1 20
+leer_inventarios
+tlpvo
+0
+tlpvo
+1
+102 170 177
+tlpvo
+5
+64 120 106
+111 185 41
+154 61 19
+49 62 102
+97 93 150
+oynya
+5
+23 44 136
+84 66 105
+153 172 84
+39 33 137
+135 154 188
+#
+leer_inventario oynya
+7
+52 37 65
+53 72 133
+63 192 130
+200 24 9
+146 89 19
+70 142 52
+42 80 179
+escribir_producto 142
+comerciar oaosa tlpvo
+escribir_ciudad tlpvo
+escribir_producto 126
+leer_rio
+eeltz
+aizni
+ccozw
+knwyh
+#
+#
+zgpql
+#
+#
+wfkjq
+ipuuj
+#
+#
+vwtxl
+#
+#
+bznry
+jdohb
+vghmy
+uiggt
+#
+#
+yqjtm
+#
+#
+uqinn
+tqmih
+#
+#
+ntkdd
+nalwn
+#
+#
+msxsa
+#
+#
+tqqel
+dacnn
+pjfer
+#
+#
+mrnyu
+#
+#
+qnwbj
+jpdjh
+deavk
+#
+#
+nykpo
+#
+#
+xhxcl
+qqedq
+#
+#
+avdwz
+#
+#
+agregar_productos
+6
+19 14
+17 10
+17 9
+5 7
+9 3
+9 1
+hacer_viaje
+consultar_prod oiorr 22
+leer_inventario eeltz
+6
+144 198 180
+27 103 53
+61 56 54
+36 191 89
+13 111 156
+95 156 111
+escribir_ciudad wwxyr
+escribir_ciudad tqqel
+escribir_barco
+leer_rio
+hlsrd
+#
+#
+comerciar hlsrd hlsrd
+poner_prod hlsrd 80 4 7
+agregar_productos
+2
+2 19
+12 17
+redistribuir
+comerciar hlsrd hlsrd
+redistribuir
+quitar_prod hlsrd 32870
+escribir_ciudad hlsrd
+escribir_ciudad hlsrd
+escribir_ciudad gqkdu
+modificar_barco
+185 24
+191 8
+hacer_viaje
+leer_inventarios
+#
+leer_inventario hlsrd
+4
+105 161 92
+16 140 63
+112 100 187
+102 152 138
+consultar_prod hlsrd 135
+consultar_prod hlsrd 37
+consultar_num
+agregar_productos
+6
+11 8
+2 10
+20 4
+4 15
+8 10
+2 17
+leer_rio
+vtmzz
+czufv
+tvfio
+#
+#
+ygkve
+#
+#
+dervv
+udneg
+#
+#
+hbctc
+#
+#
+escribir_barco
+consultar_prod vtmzz 91
+consultar_prod hbctc 6171
+comerciar vtmzz czufv
+comerciar udneg dervv
+leer_inventarios
+udneg
+6
+74 130 136
+199 179 93
+102 74 10
+143 151 57
+100 76 197
+176 166 133
+#
+escribir_barco
+modificar_barco
+104 40
+172 24
+quitar_prod ygkve 15040
+modificar_barco
+150 157
+24 24
+escribir_barco
+escribir_barco
+hacer_viaje
+poner_prod vtmzz 16899 2 20
+poner_prod hbctc 88 10 16
+escribir_barco
+escribir_barco
+leer_rio
+bxdxe
+zrzgb
+pfhza
+nffec
+#
+#
+cbgqf
+#
+#
+mzjqt
+lrspp
+#
+#
+xqiyw
+jobsp
+#
+#
+efujl
+#
+#
+xnmdd
+urddi
+#
+#
+yobqf
+spvco
+#
+#
+ulcvd
+#
+#
+modificar_barco
+125 94
+55 6
+quitar_prod rzkmk 102
+leer_rio
+wlyiq
+dchgh
+#
+#
+rgytz
+#
+#
+consultar_prod dchgh 188
+quitar_prod dchgh 143
+redistribuir
+escribir_barco
+leer_inventario wlyiq
+7
+28 199 138
+67 43 191
+125 128 20
+88 180 94
+51 28 149
+173 16 84
+4 115 197
+agregar_productos
+8
+18 13
+12 6
+4 4
+17 7
+3 20
+2 14
+10 8
+18 5
+quitar_prod dchgh 99
+comerciar wlyiq dchgh
+poner_prod dchgh 22 19 12
+poner_prod dnobq 94 19 17
+escribir_barco
+poner_prod dchgh 149 1 3
+escribir_ciudad dchgh
+leer_rio
+cvdeq
+jystm
+epxca
+#
+#
+niewq
+moxkj
+#
+#
+wpymq
+#
+#
+orlux
+#
+#
+comerciar epxca orlux
+quitar_prod wpymq 199
+poner_prod wpymq 144 14 17
+leer_inventarios
+moxkj
+6
+35 193 15
+87 124 4
+19 30 158
+86 70 107
+10 129 130
+42 82 115
+epxca
+2
+99 148 140
+198 111 47
+wpymq
+4
+48 67 200
+3 63 95
+81 22 158
+142 54 113
+niewq
+2
+185 28 46
+129 122 11
+jystm
+1
+170 14 148
+epxca
+7
+53 107 178
+192 100 101
+199 152 142
+82 197 27
+7 149 9
+121 105 185
+136 13 162
+#
+quitar_prod moxkj 41
+consultar_prod wpymq 79
+poner_prod wpymq 74 3 11
+redistribuir
+consultar_prod cvdeq 16
+leer_rio
+edvyw
+hcogh
+otpus
+fgies
+#
+#
+tckrp
+aigoc
+fufbu
+#
+#
+biyrr
+#
+#
+ffmwa
+eeimi
+#
+#
+dfnnz
+#
+#
+cphkf
+lpbqs
+#
+#
+vtdwl
+udsga
+ungfz
+#
+#
+oihbx
+#
+#
+ifopr
+#
+#
+wcjzs
+dxngt
+acwtj
+#
+#
+ypweu
+#
+#
+xvegy
+#
+#
+quitar_prod oihbx 30942
+quitar_prod biyrr 151
+poner_prod otpus 200 19 17
+comerciar eeimi lpbqs
+leer_rio
+bogsf
+xqhip
+bompu
+#
+#
+fpxck
+#
+#
+icagh
+ufczm
+#
+#
+accgw
+#
+#
+poner_prod bogsf 5250 11 7
+consultar_num
+escribir_ciudad bogsf
+leer_inventarios
+xqhip
+1
+118 163 117
+xqhip
+7
+69 21 117
+45 67 95
+76 176 169
+76 43 168
+76 72 146
+124 58 91
+47 73 1
+ufczm
+6
+49 177 115
+126 14 90
+149 157 130
+59 105 100
+10 49 119
+68 58 118
+xqhip
+0
+#
+escribir_ciudad bogsf
+leer_inventarios
+#
+escribir_producto 96
+poner_prod bompu 156 8 3
+redistribuir
+modificar_barco
+92 5
+106 17
+hacer_viaje
+hacer_viaje
+modificar_barco
+13 137
+51 2
+modificar_prod fpxck 199 13 7
+modificar_barco
+193 88
+80 1
+quitar_prod xqhip 82
+leer_rio
+igmrq
+cteqk
+bwbaa
+#
+#
+micoq
+livnj
+#
+#
+joomw
+#
+#
+kuczn
+vdgzt
+qarsa
+rgkwu
+#
+#
+aheyv
+#
+#
+ohlet
+#
+#
+jqpop
+#
+#
+hacer_viaje
+quitar_prod jqpop 115
+escribir_barco
+agregar_productos
+8
+3 4
+13 1
+13 6
+4 2
+18 15
+7 20
+2 3
+10 14
+consultar_num
+agregar_productos
+8
+19 2
+16 8
+6 1
+1 4
+11 15
+10 3
+7 14
+1 13
+consultar_num
+escribir_ciudad kuczn
+consultar_num
+leer_rio
+djslk
+oelfy
+nzeav
+aacea
+#
+#
+zuimy
+#
+#
+dypvm
+gyxbl
+#
+#
+hppuu
+#
+#
+nkttk
+qtmva
+nuuvj
+#
+#
+vahmv
+#
+#
+vuvsv
+hzkyw
+#
+#
+hmgch
+#
+#
+fin

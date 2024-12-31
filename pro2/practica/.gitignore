@@ -1,0 +1,14 @@
+# Binaries
+**.exe
+**.o
+**.obj
+**.tar
+
+# Directories
+bin/
+obj/
+dist/
+docs/
+
+# Generated files
+result.out
